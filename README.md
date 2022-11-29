@@ -1,1 +1,0 @@
-# bootstrap-first-project
